@@ -1,0 +1,5 @@
+[
+    { "bank": "Public Bank", "rate": 3.85 },
+    { "bank": "Maybank", "rate": 3.90 },
+    { "bank": "CIMB", "rate": 3.95 }
+]
